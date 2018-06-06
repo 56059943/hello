@@ -2,6 +2,9 @@
 
 2018/06/06
 
+v1.0.2
+1) update readme.md
+
 v1.0.1 
 1) update readme.md
 
