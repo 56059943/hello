@@ -1,0 +1,18 @@
+https://blog.csdn.net/u012575819/article/details/50553501
+照着博客一步一步学习
+
+
+理解：
+git clone		下载远程库到本地
+git remote  	查看远程库
+git fetch   	*****没看懂
+git checkout	构建本地分支
+git pull		拉（或者更新），从远程版本库到本地版本库过程
+git push		推（或者提交），从本地版本库与远程版本库过程
+
+
+
+额外补充：
+关于push，想要推上去，必须先add，再commit，最后才能推。
+
+关于fetch，还是没有看懂，直接翻译：拿来，取来。在git世界，他到底是啥？
