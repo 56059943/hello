@@ -2,6 +2,9 @@
 
 2018/06/06
 
+v1.0.3
+1) test delete.txt
+
 v1.0.2
 1) update readme.md
 
