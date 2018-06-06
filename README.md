@@ -2,6 +2,9 @@
 
 2018/06/06
 
+v1.0.7
+1) add remote.txt
+
 v1.0.4
 1) test delete.txt
 
