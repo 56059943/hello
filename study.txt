@@ -6,7 +6,7 @@ https://blog.csdn.net/u012575819/article/details/50553501
 git clone		下载远程库到本地
 git remote  	查看远程库
 git fetch   	*****没看懂
-git checkout	构建本地分支
+git checkout	构建分支
 git pull		拉（或者更新），从远程版本库到本地版本库过程
 git push		推（或者提交），从本地版本库与远程版本库过程
 
