@@ -5,8 +5,8 @@
 v1.0.8
 1,delete all
 
-2018/06/06
 
+2018/06/06
 v1.0.7
 1) add remote.txt
 
