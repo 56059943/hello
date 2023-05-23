@@ -16,3 +16,9 @@ git push		推（或者提交），从本地版本库与远程版本库过程
 关于push，想要推上去，必须先add，再commit，最后才能推。
 
 关于fetch，还是没有看懂，直接翻译：拿来，取来。在git世界，他到底是啥？
+
+本地配置账号密码邮箱
+git config user.name xxx
+git config user.password xxx
+git config user.email xxx
+
